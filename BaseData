@@ -2,8 +2,8 @@
   "channels" : [
     {
       "title" : "집밥백선생",
-      "fbNativeInterval" : "10",
-      "notiOn" : "false",
+      "fbNativeInterval" : "3",
+      "notiOn" : "true",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
       "notiPositiveText" : "확인",
