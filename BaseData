@@ -3,7 +3,7 @@
     {
       "title" : "집밥백선생",
       "fbNativeInterval" : "3",
-      "notiOn" : "true",
+      "notiOn" : "false",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
       "notiPositiveText" : "확인",
