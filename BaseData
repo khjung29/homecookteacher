@@ -3,6 +3,7 @@
     {
       "title" : "집밥백선생",
       "fbNativeInterval" : "5",
+      "fbNativeReload" : "true",
       "notiOn" : "false",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
@@ -14,8 +15,9 @@
       "url" : "http://m.post.naver.com/async/",
       "searchUrl" : "http://m.post.naver.com/search/authorPost/",
       "postId" : "19357942",
-      "item" : [
-          { "title" : "", "id" : "", "img" : "", "sort" : "1"}
+      "itemList" : [
+          { "title" : "전체레시피", "id" : "1", "img" : "", "sort" : "1"},
+          { "title" : "블로그레시피", "id" : "2", "img" : "", "sort" : "2"}
       ]
     }    
   ]
